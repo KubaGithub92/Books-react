@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  background-color: #444;
+  color: bisque;
+  padding: 1em;
+
+  .cart {
+    background-color: bisque;
+    color: black;
+    border-radius: 1em;
+    margin-left: auto;
+    padding: 0.5em 1em;
+  }
+}
